@@ -1,0 +1,11 @@
+module.exports = { reactStrictMode: true };
+module.exports = {
+  basePath: '',
+  assetPrefix: '/',
+  images: {
+    domains: ['minecraft-th.com'],
+  },
+  experimental: {
+    outputStandalone: true,
+  },
+}
