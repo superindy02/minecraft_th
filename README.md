@@ -1,14 +1,15 @@
-# Minecraft Thailand Website
+# Minecraft Thailand 
 
-เว็บไซต์สำหรับชุมชน Minecraft ประเทศไทย
+เว็บไซต์สำหรับชุมชน Minecraft-TH ประเทศไทย
 
-## การติดตั้ง
+## การอัพเดท และ ติดตั้ง
 ```bash
 npm install
 npm run dev
 ```
 
-## ฟีเจอร์
+## ระบบตัวเกมและรันเชอร์
+
 - ระบบสมาชิก
 - ข่าวสาร
 - ร้านค้า
